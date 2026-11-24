@@ -1,0 +1,6 @@
+manager,projects,with_vuln,share_pct,too_small
+npm,719,536,74.5,
+pnpm,316,251,79.4,
+yarn,31,22,71.0,
+bun,137,119,86.9,
+python,477,273,57.2,

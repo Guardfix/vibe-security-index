@@ -1,0 +1,11 @@
+# raw collection and scan output: holds repository names, never commit
+projects*.json
+results*.jsonl
+*.log
+scripts/work/
+
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store

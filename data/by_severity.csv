@@ -1,0 +1,8 @@
+group,projects,with_critical,with_critical_pct,with_high_only,with_high_only_pct,total_high_crit,total_critical,too_small
+lovable,138,69,50.0,66,47.8,4224,204,
+cursor,299,209,69.9,37,12.4,12175,1102,
+claude-code,297,160,53.9,56,18.9,7577,716,
+gemini,227,141,62.1,23,10.1,7905,747,
+codex,295,122,41.4,46,15.6,4515,426,
+bolt,3,2,66.7,1,33.3,297,20,yes
+baseline,294,164,55.8,46,15.6,8106,779,
